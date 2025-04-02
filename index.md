@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Liv: Welcome to my blog! New to this, I'm learning constantly!
 ---
 
